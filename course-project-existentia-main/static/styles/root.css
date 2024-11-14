@@ -1,0 +1,56 @@
+body{
+    background-image: "https://www.reddit.com/media?url=https%3A%2F%2Fexternal-preview.redd.it%2FJbU_Vq6wit5K9QRZ4xRbZ0LCEAdMY5dVvP9PahIyMsc.jpg%3Fauto%3Dwebp%26s%3D8f88c8535f06fd0bb34a448269fda7fc7edb0ae4";
+    margin: 0;
+    padding: 0;
+    font-size: 2vw;
+    color: white;
+}
+
+.intro{
+    padding: 15px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 60px;
+    color:rgb(255, 255, 255);
+}
+
+.full-page{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    height: 55vh;
+    margin-top: 20vh;
+}
+
+.credentials{
+    margin-bottom: 0%;
+}
+
+.bg {
+    position: fixed;
+    z-index: -1;
+}
+
+.content {
+    color: white;
+    border: 1px solid white;
+    border-radius: 20px;
+    backdrop-filter: blur(10px);
+    padding: 20px;
+}
+
+.contentwrapper {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    max-width: 80%;
+    gap: 0px 3%;
+}
+
+h1 {
+    color: white;
+}
+
+h2, p, button {
+    font-family: "Poppins", sans-serif;
+}

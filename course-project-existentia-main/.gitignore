@@ -1,0 +1,12 @@
+__pycache__
+.vscode
+uploads
+flask_session
+node_modules
+package-lock.json
+package.json
+renders
+static/renders
+static/images
+dbcredentials.json
+static/videos

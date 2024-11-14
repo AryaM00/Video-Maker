@@ -1,0 +1,8 @@
+flask
+sqlalchemy
+datetime
+moviepy
+numpy
+sqlalchemy-cockroachdb
+psycopg2
+pyjwt
